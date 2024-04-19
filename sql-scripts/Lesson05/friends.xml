@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+<Friend FriendId="2">
+	<FirstName>
+		Harry
+	</FirstName>
+	<LastName>
+		Took
+	</LastName>
+	<Country>
+		Sweden
+	</Country>
+	<Pet>
+		Charlie the happy Cat
+	</Pet>
+</Friend>
+<Friend FriendId="2">
+	<FirstName>
+		Harry
+	</FirstName>
+	<LastName>
+		Took
+	</LastName>
+	<Country>
+		Sweden
+	</Country>
+	<Pet>
+		Wanda the happy Fish
+	</Pet>
+</Friend>
+<Friend FriendId="3">
+	<FirstName>
+		Severus
+	</FirstName>
+	<LastName>
+		Gamgee
+	</LastName>
+	<Country>
+		Norway
+	</Country>
+	<Pet>
+		Cooper the happy Cat
+	</Pet>
+</Friend>
+<Friend FriendId="7">
+	<FirstName>
+		Hermione
+	</FirstName>
+	<LastName>
+		Granger
+	</LastName>
+	<Country>
+		Norway
+	</Country>
+	<Pet>
+		Milo the happy Dog
+	</Pet>
+</Friend>
+<Friend FriendId="8">
+	<FirstName>
+		Albus
+	</FirstName>
+	<LastName>
+		Potter
+	</LastName>
+	<Country>
+		Denmark
+	</Country>
+	<Pet>
+		Teddy the happy Fish
+	</Pet>
+</Friend>
+<Friend FriendId="8">
+	<FirstName>
+		Albus
+	</FirstName>
+	<LastName>
+		Potter
+	</LastName>
+	<Country>
+		Denmark
+	</Country>
+	<Pet>
+		Leo the happy Bird
+	</Pet>
+</Friend>
+
+</root>
