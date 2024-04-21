@@ -17,7 +17,7 @@ GO
 CREATE DATABASE sakila;
 GO
 
-USE sakila-again;
+USE sakila;
 
 --
 -- Table structure for table actor
