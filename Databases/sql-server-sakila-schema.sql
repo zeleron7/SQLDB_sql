@@ -14,6 +14,9 @@ http://www.etl-tools.com
 CREATE DATABASE sakila;
 GO
 */
+CREATE DATABASE sakila;
+GO
+
 USE sakila-again;
 
 --
