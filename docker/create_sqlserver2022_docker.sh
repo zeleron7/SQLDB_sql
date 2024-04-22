@@ -7,6 +7,8 @@ softwareupdate --install-rosetta
 
 #Only on Windows11 ensure you have last version of WindowsLinuxSubsystem installed
 wsl --update
+#Alternative if you do not have wsl installed
+wsl --install
 
 #pull the container image to my computer
 docker pull mcr.microsoft.com/mssql/server:2022-latest
