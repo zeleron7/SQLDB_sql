@@ -20,3 +20,5 @@ SELECT ROUND(17.5, 1), ROUND(17.5, 0), ROUND(17.5, -1);
 --mod operator %
 SELECT 0%2 as even, 1%2 AS odd, 2%2 as even, 3%2 as odd; 
 
+
+
