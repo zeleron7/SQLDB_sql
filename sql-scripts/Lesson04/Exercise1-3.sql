@@ -40,3 +40,5 @@ SELECT * FROM (
 ) non_returns
 INNER JOIN customer c ON c.customer_id = non_returns.customer_id
 
+--
+
